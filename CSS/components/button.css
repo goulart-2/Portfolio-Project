@@ -9,7 +9,7 @@
     cursor: pointer;
     transition: bounce 500ms ease;
     font-size: 20px;
-    font-family: inherit;
+    font-family: 'Fira Code';
 }
 
 .button:hover {
