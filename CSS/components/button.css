@@ -1,0 +1,17 @@
+.button{
+    display: inline-block;
+    color: #fff;
+    background-color: #753742;
+    padding: 17px 20px;
+    box-shadow: 5px 5px 0px #4F3130;
+    margin-right: 0;
+    border-radius: 4px ;
+    cursor: pointer;
+    transition: bounce 500ms ease;
+    font-size: 20px;
+    font-family: inherit;
+}
+
+.button:hover {
+	animation: bounce 1s;
+}
