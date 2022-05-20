@@ -1,0 +1,26 @@
+.banner{
+    background-image: url(../../Assets/IMGS/peakyBlinderOsMalditos.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-bottom: 10px solid #D3D0CB;
+    padding-left: 90px;
+    padding-top: 116px
+}
+
+.banner .box {
+    margin-bottom: 38px;
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+}
+
+.banner .navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+

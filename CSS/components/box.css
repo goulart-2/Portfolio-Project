@@ -1,7 +1,9 @@
 .box{
-    display: inline-block;
+    display: flex;
     background-color: #071E22 ;
-    padding: 42px 44px;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
     box-shadow: 10px 10px 0 #000;
-    text-align: center;  
+    padding: 42px 47px;
 }
