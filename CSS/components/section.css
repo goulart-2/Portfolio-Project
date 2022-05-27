@@ -1,6 +1,10 @@
 .section {
-    background-color: #753742;
+    background-color: #F2545B;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #D3D0CB;
+    border-bottom: 10px solid #071E22;
+}
+
+.section .main-title {
+    margin-bottom: 60px;
 }
