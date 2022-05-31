@@ -1,0 +1,19 @@
+.card-project {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7C5E99 ;
+    box-shadow: 10px 10px 0px #FFFFFF;
+    height: 280px;
+    width: 280px;
+}
+
+.card-project.-collab {
+    background-color: rgba(255, 255, 255, 0) ;
+    box-shadow: none;
+}
+
+.card-project .logo.-avatar {
+    height: 280px;
+    width: 280px;
+}
