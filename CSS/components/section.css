@@ -14,3 +14,11 @@
     background-color: black;
     
 }
+
+.section.-bgBlack {
+    background-color: #000;
+}
+
+.section.-bdColor {
+    border-bottom: 10px solid #F2545B;
+}
