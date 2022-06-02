@@ -1,4 +1,4 @@
-.button{
+.main-button{
     display: inline-block;
     color: #fff;
     background-color: #753742;
@@ -12,6 +12,6 @@
     font-family: inherit;
 }
 
-.button:hover {
+.main-button:hover {
 	animation: bounce 1s;
 }
