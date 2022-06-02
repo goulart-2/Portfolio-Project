@@ -1,0 +1,22 @@
+body{
+    padding-top: 0%;
+}
+
+header{
+    background-color: #1D7874;
+    border-bottom: 10px solid #D3D0CB;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-initials{
+    font-family:'Press Start 2P' ,sans-serif ;
+    color: white;
+    text-shadow: 5px 5px 0px #4F3130 ;
+}
+
+nav{
+    text-align: right;
+}
